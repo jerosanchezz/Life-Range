@@ -15,6 +15,6 @@ Life-Range is an app for inspirational, entertainment, and educational purposesâ
 
 # Contact Us
 
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.
+If you have any questions or suggestions about our app, do not hesitate to contact us.
 
 Email: aejphz@gmail.com
